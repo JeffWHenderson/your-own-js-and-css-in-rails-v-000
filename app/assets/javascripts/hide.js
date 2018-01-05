@@ -1,4 +1,4 @@
-let hider = document.getElementById('hide_this')
+
 //
 function hideWhenClicked(event) {
   $(event.target).hide()
