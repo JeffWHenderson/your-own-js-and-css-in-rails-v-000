@@ -1,5 +1,5 @@
 let hider = document.getElementById('hide_this')
-// 
+//
 // function hideWhenClicked(e) {
 //   // hider.click(hideButton);
 //   hider.click(function(){
