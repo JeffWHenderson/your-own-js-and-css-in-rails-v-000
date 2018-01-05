@@ -13,4 +13,4 @@ function hideWhenClicked(e) {
 //   $target.hide();
 // }
 
-hider.click(console.log('clicked!!!'))//.css({'visibility':'hidden'})};
+//hider.click(console.log('clicked!!!'))//.css({'visibility':'hidden'})};
