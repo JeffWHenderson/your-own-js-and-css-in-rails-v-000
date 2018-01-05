@@ -1,7 +1,7 @@
 let hider = document.getElementById('hide_this')
 //
 function hideWhenClicked(event) {
-  console.log(event)
+  event.target.hide()
 //    hider.click(console.log('clicked!!!'))//.css({'visibility':'hidden'})};
 //   // hider.click(hideButton);
 //   hider.click(function(){
