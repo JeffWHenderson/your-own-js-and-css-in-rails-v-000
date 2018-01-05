@@ -1,7 +1,7 @@
 
 function hideWhenClicked(event) {
   //$(event.target).hide()
-  $(event.target).css({'visibility':'hidden';})
+  console.log($(event.target))
 }
 
 $('#hide_this').click(hideWhenClicked)
